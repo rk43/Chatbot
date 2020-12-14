@@ -1,2 +1,2 @@
-# Chatbot
-Retrieval based chatbot
+### Chatbot
+GUI based retrieval chatbot
